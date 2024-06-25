@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bookname": "Angular",
+      "price": 999,
+      "authorid": 2
+    }
+  ],
+  "authors": [
+    {
+      "authorid": "1",
+      "authorname": "Microsoft",
+      "id": "1049"
+    },
+    {
+      "authorid": "2",
+      "authorname": "Google",
+      "id": "d770"
+    },
+    {
+      "authorid": "3",
+      "authorname": "XYZ",
+      "id": "1006"
+    }
+  ]
+}
